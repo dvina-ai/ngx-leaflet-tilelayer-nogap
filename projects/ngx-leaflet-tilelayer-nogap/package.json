@@ -1,0 +1,20 @@
+{
+	"name": "@dvina/ngx-leaflet-tilelayer-nogap",
+	"description": "Angular directives for the Leaflet Tilelayer Nogap plugin",
+	"version": "16.0.0",
+	"author": "Kant Yazılım A.Ş.",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dvina-ai/ngx-leaflet-tilelayer-nogap.git"
+	},
+	"peerDependencies": {
+		"@angular/common": "16",
+		"@angular/core": "16",
+		"leaflet": "1"
+	},
+	"dependencies": {
+		"leaflet.tilelayer.nogap": "~0.3.0",
+		"tslib": "^2.4.0"
+	}
+}
